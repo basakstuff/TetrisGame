@@ -1,6 +1,8 @@
 import pygame
 import random
 
+# basakstuff
+
 pygame.font.init()
 
 # GLOBALS VARS
